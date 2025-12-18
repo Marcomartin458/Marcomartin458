@@ -4,11 +4,11 @@ En este repositorio iré subiendo los progresos que haga en mi vida como program
 
 ## 🤖Repositorios en los que estoy trabajando:
 
-💠 **PROGRAMACIÓN** --> (https://github.com/WilliamsPrometeo/programacion-entregas.git)
+💠 **[PROGRAMACIÓN](https://github.com/WilliamsPrometeo/programacion-entregas.git)** --> Aquí está la teoría que estamos dando.
 <br> <br>
-💠 **PROYECTOS JAVA** --> (https://github.com/WilliamsPrometeo/DAM_entregas.git)
+💠 **[PROYECTOS JAVA](https://github.com/WilliamsPrometeo/DAM_entregas.git)** --> Aquí están mis proyectos, en la capeta que pone Marco Martín.
 <br> <br>
-💠 **ENTORNOS DE DESARROLLO** --> (https://github.com/Marcomartin458/pullrequest.git)
+💠 **[ENTORNOS DE DESARROLLO](https://github.com/Marcomartin458/pullrequest.git)** --> Esta es otra asignatura en la que aprendemos a usar comandos de Git.
 
 ## 👾Lenguajes que uso:
 
