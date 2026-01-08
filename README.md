@@ -1,4 +1,4 @@
-## Hola caracola 👋
+## Hola. Qué tal? 👋
 
 En este repositorio iré subiendo los progresos que haga en mi vida como programador. 
 
