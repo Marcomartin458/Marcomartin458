@@ -7,8 +7,8 @@ En este repositorio iré subiendo los progresos que haga en mi vida como program
 <br><br>
 💠 **[GESTIÓN PELÍCULAS](https://github.com/WilliamsPrometeo/programacion-entregas.git)** --> Mi primer proyecto serio usando Java con vistas.
 <br> <br>
-💠 **[PROGRAMACIÓN](https://github.com/WilliamsPrometeo/programacion-entregas.git)** --> Aquí está la teoría que estamos dando.
-<br> <br>
+💠 **[PROYECTO LISTA DE LA COMPRA](https://github.com/Marcomartin458/Lista-de-la-compra.git)** --> Esta es mi primera página funcional con JavaScript y CSS hecho a mano.
+<br><br>
 💠 **[PROYECTOS JAVA](https://github.com/WilliamsPrometeo/DAM_entregas.git)** --> Aquí están mis proyectos, en la capeta que pone Marco Martín.
 <br> <br>
 
