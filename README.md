@@ -3,12 +3,15 @@
 En este repositorio iré subiendo los progresos que haga en mi vida como programador. 
 
 ## 🤖Repositorios en los que estoy trabajando:
-
+💠 **[PORTFOLIO PERSONAL](https://marcomartin458.github.io/Master/Lenguaje%20de%20Marcas/)** --> Este es mi Portfolio personal donde iré subiendo las cosas que hago.
+<br><br>
+💠 **[GESTIÓN PELÍCULAS](https://github.com/WilliamsPrometeo/programacion-entregas.git)** --> Mi primer proyecto serio usando Java con vistas.
+<br> <br>
 💠 **[PROGRAMACIÓN](https://github.com/WilliamsPrometeo/programacion-entregas.git)** --> Aquí está la teoría que estamos dando.
 <br> <br>
 💠 **[PROYECTOS JAVA](https://github.com/WilliamsPrometeo/DAM_entregas.git)** --> Aquí están mis proyectos, en la capeta que pone Marco Martín.
 <br> <br>
-💠 **[ENTORNOS DE DESARROLLO](https://github.com/Marcomartin458/pullrequest.git)** --> Esta es otra asignatura en la que aprendemos a usar comandos de Git.
+
 
 ## 👾Lenguajes que uso:
 
