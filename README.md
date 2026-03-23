@@ -50,3 +50,8 @@ https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascri
 https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white
 https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white
+
+## Mis estadísticas🎯
+
+[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/marcomartin458/github-readme-stats)
+
