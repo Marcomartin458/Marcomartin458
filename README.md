@@ -40,10 +40,13 @@
 ---
 
 ## ♦️ Áreas de interés
-
+<br><br>
 ➔ **Programación**
+<br><br>
 ➔ **Ciberseguridad**
+<br><br>
 ➔ **Inteligencia Artificial**
+<br><br>
 
 ---
 
