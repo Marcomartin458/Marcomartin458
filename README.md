@@ -27,10 +27,10 @@ El núcleo de mi trabajo. Mi identidad y mi evolución técnica presentadas en u
 Arquitectura y estructura. Mi primer salto serio a la programación usando **Java** con interfaces gráficas.
 
 ➡️ **[LISTA DE LA COMPRA](https://github.com/Marcomartin458/Lista-de-la-compra.git)**
-Interactividad directa. Lógica pura en **JavaScript** combinada con un diseño **CSS** hecho a mano.
+Interactividad directa. Lógica en **JavaScript** combinada con un diseño **CSS** hecho a mano.
 
 ➡️ **[PROYECTOS JAVA](https://github.com/WilliamsPrometeo/DAM_entregas.git)**
-El campo de entrenamiento. Algoritmos, prácticas y entregas académicas (Carpeta Marco Martín).
+El campo de entrenamiento. Prácticas y entregas académicas (Carpeta Marco Martín).
 
 ---
 
@@ -39,9 +39,11 @@ El campo de entrenamiento. Algoritmos, prácticas y entregas académicas (Carpet
 Las herramientas cambian, la capacidad de adaptación se queda. Esto es lo que construyo y opero hoy:
 
 **Desarrollo y Lógica:**
+<br><br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Sistemas, Entornos y Redes:**
+<br><br>
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
 ---
@@ -57,7 +59,7 @@ Las herramientas cambian, la capacidad de adaptación se queda. Esto es lo que c
 ## 📊 Mis Números
 
 Aquí se encuentran mis estadísticas. Buscando mejorar con el tiempo:
-
+<br><br>
 [![Estadísticas de Marco](https://github-readme-stats.vercel.app/api?username=marcomartin458&show_icons=true&theme=radical)](https://github.com/marcomartin458)
 
 ---
