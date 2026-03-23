@@ -7,11 +7,15 @@
 ---
 
 ## 🤖 Mis Proyectos
-
+<br><br>
 💠 **[PORTFOLIO PERSONAL](https://marcomartin458.github.io/Master/Lenguaje%20de%20Marcas/)** ➔ El escaparate donde iré subiendo las cosas que hago.
+<br><br>
 💠 **[GESTIÓN PELÍCULAS](https://github.com/WilliamsPrometeo/programacion-entregas.git)** ➔ Mi primer proyecto serio. Desarrollado en Java con vistas.
+<br><br>
 💠 **[LISTA DE LA COMPRA](https://github.com/Marcomartin458/Lista-de-la-compra.git)** ➔ Mi primera página funcional. JavaScript y CSS hecho a mano.
+<br><br>
 💠 **[PROYECTOS JAVA](https://github.com/WilliamsPrometeo/DAM_entregas.git)** ➔ Prácticas y entregas (carpeta Marco Martín).
+<br><br>
 
 ---
 
