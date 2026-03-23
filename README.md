@@ -51,7 +51,9 @@ Las herramientas cambian, la capacidad de adaptación se queda. Esto es lo que c
 ## 🧭 Hacia dónde voy
 
 ➡️ **Ciberseguridad:** Entender cómo se rompe un sistema para saber exactamente cómo blindarlo.
+<br><br>
 ➡️ **Inteligencia Artificial:** No como un simple atajo, sino como un multiplicador de mis propias capacidades.
+<br><br>
 ➡️ **Arquitectura de Software:** Aprender a diseñar cimientos fuertes para proyectos cada vez más complejos.
 
 ---
