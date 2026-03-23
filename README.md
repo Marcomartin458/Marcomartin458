@@ -31,6 +31,6 @@ En este repositorio iré subiendo los progresos que haga en mi vida como program
 <br> <br>
 💠 *Ciberseguridad*
 <br> <br>
-💠 *Rocas volcánicas bonitas*
+💠 *Inteligencia Artificial*
 <br> <br>
 
