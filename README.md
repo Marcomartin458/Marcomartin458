@@ -62,7 +62,7 @@ Las herramientas cambian, la capacidad de adaptación se queda. Esto es lo que c
 
 Aquí se encuentran mis estadísticas. Buscando mejorar con el tiempo:
 <br><br>
-[![Estadísticas de Marco](https://github-readme-stats.vercel.app/api?username=marcomartin458&show_icons=true&theme=radical)](https://github.com/marcomartin458)
+[![Estadísticas de Marco](https://github-readme-stats.vercel.app/api?username=marcomartin458&show_icons=true&theme=radical)]
 
 ---
 
@@ -70,4 +70,4 @@ Aquí se encuentran mis estadísticas. Buscando mejorar con el tiempo:
 
 ¿Estás buscando a alguien con hambre de aprender y construir? ¿Alguien para debatir sobre código, IA o seguridad?
 
-➡️ Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/marco-mart%C3%ADn-%C3%A1lvarez-416b43322/) o escribirme a [Mi Correo](mailto: marcomartinalvarez14@gmail.com).
+➡️ Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/marco-mart%C3%ADn-%C3%A1lvarez-416b43322/) o escribirme a marcomartinalvarez14@gmail.com.
