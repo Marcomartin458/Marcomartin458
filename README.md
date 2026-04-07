@@ -62,7 +62,7 @@ Las herramientas cambian, la capacidad de adaptación se queda. Esto es lo que c
 
 Aquí se encuentran mis estadísticas. Buscando mejorar con el tiempo:
 <br><br>
-[![Estadísticas de Marco](https://github-readme-stats.vercel.app/api?username=marcomartin458&show_icons=true&theme=radical)]
+![Racha de commits](https://github-readme-streak-stats.herokuapp.com/?user=marcomartin458&theme=radical)
 
 ---
 
