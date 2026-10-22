@@ -1,20 +1,23 @@
 ![Banner](https://github.com/user-attachments/assets/c2c9c83b-61f5-4d89-8e08-05f85c0f1f8a)
 
-# 👋 Hola, soy Marco Martín
+# Marco Martín
+### Arquitectura de Software · Seguridad por Diseño · Automatización
 
-Desarrollador de software enfocado en **arquitectura backend**, **seguridad aplicada** y **automatización**.
+Construyo software bajo una premisa simple: **un sistema solo es eficiente si es seguro, auditable y capaz de sostener su propia lógica de negocio sin fisuras.**
 
-No entiendo el código como piezas aisladas, sino como engranajes de un sistema completo: resiliencia, escalabilidad y protección del dato desde el diseño.
+Me muevo en la intersección entre el desarrollo backend y la ciberseguridad. No diseño aplicaciones pensando únicamente en que funcionen en el escenario ideal (`happy path`), sino en cómo responden ante estados inconsistentes, concurrencia crítica o intentos de explotación.
 
 ---
 
-## 🧠 Mi Enfoque
+## 🎯 Filosofía de Ingeniería
 
-No me conformo con picar código. Busco entender el porqué detrás de cada sistema.
+Huyo del código frágil y las soluciones parcheadas. Mi forma de abordar cada proyecto se basa en tres principios:
 
-Me obsesiona la lógica detrás de una arquitectura limpia. Me motiva descubrir y blindar vulnerabilidades a través de la ciberseguridad, explorando cómo la Inteligencia Artificial y la automatización optimizan procesos reales.
+➔ **Seguridad desde el Cimiento (Security by Design):** Entender cómo se audita y se vulnera una infraestructura es la única vía real para blindarla. Aplico control estricto de privilegios, aislamiento de entornos y validación rigurosa en cada capa.
 
-¿El objetivo final? Crear soluciones que no solo funcionen hoy, sino que escalen, resistan y protejan los datos mañana.
+➔ **Lógica de Negocio Determinista:** Los datos no pueden quedar a merced de condiciones de carrera ni flujos ambiguos. Priorizo arquitecturas desacopladas, máquinas de estados claras y persistencia íntegra.
+
+➔ **Automatización e Inteligencia Aplicada:** Empleo la IA, la integración de APIs y el ecosistema Cloud no como simples atajos, sino como multiplicadores operativos para eliminar tareas manuales y escalar procesos.
 
 ---
 
@@ -22,6 +25,7 @@ Me obsesiona la lógica detrás de una arquitectura limpia. Me motiva descubrir 
 
 Sistemas en desarrollo activo centrados en lógica de negocio estricta, concurrencia y control de acceso.
 
+---
 
 ### 🛡️ Gestor Documental Institucional (DMS)
 > *Sistema de gestión de archivos diseñado para entornos educativos con alta sensibilidad de datos.*
@@ -43,11 +47,11 @@ Sistemas en desarrollo activo centrados en lógica de negocio estricta, concurre
 
 ---
 
-## 🎓 Especialización & Formación Avanzada
+## 🎓 Especialización & Formación en Curso
 
-- 🔒 **Máster en Ciberseguridad:** Profundizando en seguridad defensiva, auditoría de vulnerabilidades, análisis de tráfico y modelado de amenazas.
-- ☁️ **Ecosistema Microsoft Learn:** Automatización de flujos y procesos, análisis de datos con Power BI y orquestación con IA / Azure.
-- 💻 **Desarrollo de Aplicaciones Multiplataforma (2º Curso):** Consolidación de arquitecturas escalables, diseño orientado a objetos y persistencia avanzada.
+- 🔒 **Máster en Ciberseguridad:** Seguridad defensiva, auditoría de vulnerabilidades, análisis de tráfico en red y fortificación de sistemas.
+- ☁️ **Ecosistema Microsoft Learn:** Automatización de flujos corporativos, analítica de datos (Power BI) y despliegue de soluciones con IA y Azure.
+- 💻 **Desarrollo de Aplicaciones Multiplataforma (2º Curso):** Arquitectura de software, diseño orientado a objetos y persistencia relacional avanzada.
 
 ---
 
@@ -86,7 +90,7 @@ Sistemas en desarrollo activo centrados en lógica de negocio estricta, concurre
 
 ## 📬 Contacto Profesional
 
-Abierto a retos técnicos donde el rigor arquitectónico, la automatización y la ciberseguridad sean prioritarios:
+Abierto a oportunidades y retos técnicos donde el rigor arquitectónico, la automatización y la ciberseguridad sean prioritarios:
 
 ➡️ [LinkedIn](https://www.linkedin.com/in/marco-mart%C3%ADn-%C3%A1lvarez-416b43322/)  
 ➡️ [Portfolio Web](https://marcomartin458.github.io/Master/Lenguaje%20de%20Marcas/)  
