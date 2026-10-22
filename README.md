@@ -22,7 +22,6 @@ Me obsesiona la lógica detrás de una arquitectura limpia. Me motiva descubrir 
 
 Sistemas en desarrollo activo centrados en lógica de negocio estricta, concurrencia y control de acceso.
 
----
 
 ### 🛡️ Gestor Documental Institucional (DMS)
 > *Sistema de gestión de archivos diseñado para entornos educativos con alta sensibilidad de datos.*
