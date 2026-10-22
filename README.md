@@ -10,7 +10,7 @@ Transformo curiosidad y lógica en código. Construyendo mi camino en el desarro
 
 No me conformo con picar código. Busco entender el porqué detrás de cada sistema. 
 
-Me obsesiona la lógica detrás de una buena arquitectura. Me motiva descubrir las vulnerabilidades a través de la ciberseguridad. Exploro cómo la Inteligencia Artificial cambiará las reglas del juego. 
+Me obsesiona la lógica detrás de una arquitectura. Me motiva descubrir y explotar las vulnerabilidades a través de la ciberseguridad. También exploro cómo la Inteligencia Artificial cambiará las reglas del juego. 
 
 ¿El objetivo final? Crear soluciones que no solo funcionen hoy, sino que escalen y resistan mañana.
 
